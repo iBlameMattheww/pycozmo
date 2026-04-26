@@ -1,0 +1,1010 @@
+2026-04-26 17:11:09.756 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.768 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:09.786 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.787 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.801 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:09.824 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.824 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.834 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:09.834 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:09.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.858 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.867 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:09.886 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.887 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.900 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:09.931 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.932 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.933 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:09.954 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.954 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.967 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:09.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:09.991 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:09.999 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:09.999 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=663922563, num_anim_bytes_played=25113, num_audio_frames_played=586, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:09.999 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:10.020 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.020 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.032 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.057 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.057 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.065 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.089 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.089 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.100 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.120 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.120 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.131 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.154 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.155 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.164 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.187 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.187 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.197 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.222 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.222 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.230 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.255 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.256 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.263 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.287 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.287 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.303 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.324 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.324 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.330 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 70 bytes.
+2026-04-26 17:11:10.330 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=664252806, num_anim_bytes_played=25643, num_audio_frames_played=596, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:10.330 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:10.330 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:10.353 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.353 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.363 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.391 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.392 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x19\x8c\xc1@\x88\xc5\xa8\x88\xc9\xa4\x84\xcd\xa4\x84\xd1X\x84\xcd\xa4\x88\xc9\xa4\x88\xc5@\x8c\xc1\x03\x94\xad\xb4\x90\xb1\xb4\x90\xb5\xb0\x8c\xbdR\x90\xb5@\x90\xb1\xb4\x94\xad"')
+2026-04-26 17:11:10.395 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.422 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.423 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1b\x90\xb9\xac\x8c\xc1@\x88\xc9Y\x8c\xc1@\x90\xb9@\x03\x94\xb1@\x90\xb9@\x8c\xbdR\x90\xb9@\x94\xb1@!')
+2026-04-26 17:11:10.429 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.454 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.456 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\x90\xb9\xac\x90\xbd\xa8\x8c\xc1\xa8\x8c\xc5\xa4\x88\xc9V\x8c\xc5\xa4\x8c\xc1\xa8\x90\xbd\xa8\x90\xb9\x04\x94\xb5\xac\x90\xb9@\x90\xbd\xa8\x8c\xc1S\x90\xbd\xa8\x90\xb9@\x94\xb5\x1f')
+2026-04-26 17:11:10.461 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.488 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.490 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1f\x94\xb5\xac\x94\xb9\xa8\x90\xbd\xa8\x90\xc1\xa4\x8c\xc5T\x90\xc1\xa4\x90\xbd\xa8\x94\xb9\xa8\x94\xb5@\x03\x94\xb9@\x90\xc1Y\x94\xb9@\x1d')
+2026-04-26 17:11:10.494 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.521 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.524 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \x98\xb5@\x94\xb9\xa8\x94\xbdU\x94\xb9\xa8\x98\xb5@\x04\x94\xb9\xa8\x94\xbd@\x90\xc5X\x94\xbd@\x94\xb9\x1c')
+2026-04-26 17:11:10.527 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.555 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.557 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x9c\xb1\xa8\x98\xb5@\x98\xb9\xa4\x94\xbdR\x98\xb9\xa4\x98\xb5@\x9c\xb1\x04\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9\x9c\x8c\xcdW\x90\xc9\x9c\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\x1a')
+2026-04-26 17:11:10.561 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.589 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.589 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x9c\xb1\xa8\x98\xb5@\x98\xb9\xa4\x94\xbdR\x98\xb9\xa4\x98\xb5@\x9c\xb1\x04\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9\x9c\x8c\xcdW\x90\xc9\x9c\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\x1a')
+2026-04-26 17:11:10.593 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.620 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.620 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x9c\xb1\xa8\x98\xb5@\x98\xb9\xa4\x94\xbdR\x98\xb9\xa4\x98\xb5@\x9c\xb1\x04\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9\x9c\x8c\xcdW\x90\xc9\x9c\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\x1a')
+2026-04-26 17:11:10.626 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.652 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.653 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x9c\xb1\xa8\x98\xb5@\x98\xb9\xa4\x94\xbdR\x98\xb9\xa4\x98\xb5@\x9c\xb1\x04\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9\x9c\x8c\xcdW\x90\xc9\x9c\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\x1a')
+2026-04-26 17:11:10.659 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:10.659 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=664583317, num_anim_bytes_played=26173, num_audio_frames_played=606, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:10.660 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:10.690 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.691 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x9c\xb1\xa8\x98\xb5@\x98\xb9\xa4\x94\xbdR\x98\xb9\xa4\x98\xb5@\x9c\xb1\x04\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9\x9c\x8c\xcdW\x90\xc9\x9c\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\x1a')
+2026-04-26 17:11:10.692 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.719 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.722 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x9c\xb1\xa8\x98\xb5@\x98\xb9\xa4\x94\xbdR\x98\xb9\xa4\x98\xb5@\x9c\xb1\x04\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9\x9c\x8c\xcdW\x90\xc9\x9c\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\x1a')
+2026-04-26 17:11:10.725 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.754 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.756 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xa0\xb1\xa4\x9c\xb5\xa4\x9c\xb9\xa0\x98\xbdT\x9c\xb9\xa0\x9c\xb5\xa4\xa0\xb1\x04\x9c\xb9\xa0\x98\xbd\xa0\x98\xc1\x9c\x94\xc5\x9c\x94\xc9V\x94\xc5\x9c\x98\xc1\x9c\x98\xbd\xa0\x9c\xb9\x1c')
+2026-04-26 17:11:10.758 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.787 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.789 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1f\xa0\xb5\xa0\x9c\xb9@\x9c\xbd\x9c\x98\xc1T\x9c\xbd\x9c\x9c\xb9@\xa0\xb5\x03\xa0\xb5\xa0\x9c\xbdA\x98\xc1\x9c\x98\xc5T\x98\xc1@\x9c\xbd@\xa0\xb5\x1d')
+2026-04-26 17:11:10.791 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.822 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.824 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1f\xa0\xb5\xa0\xa0\xb9\x9c\x9c\xbd\x9c\x9c\xc1\x98\x98\xc5T\x9c\xc1\x98\x9c\xbd\x9c\xa0\xb9\x9c\xa0\xb5\x04\xa0\xb5\xa0\xa0\xb9@\x9c\xc1W\xa0\xb9@\xa0\xb5\x1d')
+2026-04-26 17:11:10.825 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=664763433, num_anim_bytes_played=26422, num_audio_frames_played=611, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:10.825 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:10.825 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:10.857 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.859 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa4\xb5\x9c\xa0\xbdA\x9c\xc1\x98\x9c\xc5T\x9c\xc1@\xa0\xbd@\xa4\xb5\x03\xa4\xb5@\xa0\xb9\x9c\xa0\xbdV\xa0\xb9\x9c\xa4\xb5@\x1f')
+2026-04-26 17:11:10.889 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.891 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:10.891 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.921 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.921 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:10.923 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.953 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.953 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:10.956 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.989 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:10.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:10.991 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.022 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:11.022 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.023 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.023 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=664943811, num_anim_bytes_played=26660, num_audio_frames_played=616, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:11.023 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:11.055 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.057 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.057 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.088 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.089 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.089 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.120 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.120 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.124 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.154 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.157 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.157 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.187 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.189 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.189 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.220 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.220 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.220 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.253 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.257 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.258 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.286 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.290 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.290 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.319 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.322 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.322 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.353 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 70 bytes.
+2026-04-26 17:11:11.353 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=665274047, num_anim_bytes_played=27145, num_audio_frames_played=626, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:11.353 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:11.353 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:11.353 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.353 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.385 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.387 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.419 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.424 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.424 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.451 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.453 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.453 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.484 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.487 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.487 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.517 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.520 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.520 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.550 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.556 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.556 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.585 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.591 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.591 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.616 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.621 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.622 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.649 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.656 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.656 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.682 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:11.683 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=665604283, num_anim_bytes_played=27565, num_audio_frames_played=636, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:11.683 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:11.690 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.690 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.715 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.722 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.722 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.749 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.755 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.756 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.781 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.787 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.787 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.814 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.819 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.819 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.847 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:11.848 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:11.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.857 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.880 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.891 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.891 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.913 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.920 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.920 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.947 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.953 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.954 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:11.979 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:11.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:11.992 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.012 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:12.012 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=665934486, num_anim_bytes_played=27985, num_audio_frames_played=646, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:12.012 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:12.021 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.021 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.045 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.057 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.057 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.078 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.087 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.088 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.114 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.119 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.125 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.144 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.156 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.156 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.182 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.190 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.191 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.210 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.224 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.224 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.243 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.256 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.256 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.277 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.290 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.290 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.309 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.321 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.321 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.342 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 70 bytes.
+2026-04-26 17:11:12.343 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=666264836, num_anim_bytes_played=28405, num_audio_frames_played=656, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:12.343 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:12.343 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:12.356 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.356 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.375 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.387 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.409 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.424 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.424 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.442 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.453 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.454 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.475 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.487 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.487 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.508 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.523 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.523 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.540 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.553 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.554 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.574 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.587 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.588 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x04\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1 ')
+2026-04-26 17:11:12.609 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.620 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.622 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.639 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.656 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.657 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.673 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:12.673 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=666595134, num_anim_bytes_played=28783, num_audio_frames_played=665, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:12.673 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:12.689 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.690 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.706 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.720 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.720 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.739 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.757 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.757 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.771 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.789 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.790 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.805 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.822 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.822 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.838 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.856 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.856 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.871 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:12.871 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:12.888 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.888 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.904 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.920 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.920 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.937 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.956 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.956 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:12.970 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:12.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:12.991 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.003 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:13.003 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=666925443, num_anim_bytes_played=29203, num_audio_frames_played=675, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:13.003 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:13.021 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.021 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.036 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.056 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.056 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.070 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.091 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.091 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.102 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.121 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.122 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.135 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.155 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.155 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.168 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.187 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.187 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.201 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.220 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.221 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.235 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.256 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.256 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.267 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.295 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.295 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.300 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.322 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.322 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.333 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:13.333 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=667255704, num_anim_bytes_played=29623, num_audio_frames_played=685, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:13.333 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:13.353 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.354 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.366 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:13.366 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:13.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.387 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.399 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.419 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.419 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.432 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.453 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.453 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.465 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.490 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.490 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.498 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.521 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.521 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.531 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.553 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.554 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.564 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.586 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.586 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.597 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.620 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.620 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.630 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.657 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.658 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.663 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:13.663 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=667586049, num_anim_bytes_played=30043, num_audio_frames_played=695, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:13.664 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:13.691 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.691 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.696 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.721 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.721 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.729 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.757 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.757 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.762 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.791 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.791 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.795 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.824 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.824 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.828 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.857 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.861 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=667796192, num_anim_bytes_played=30295, num_audio_frames_played=701, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:13.861 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:13.861 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:13.886 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.886 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.894 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.922 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.922 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.928 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.956 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.957 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.960 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:13.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:13.991 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:13.993 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:13.993 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=667916275, num_anim_bytes_played=30463, num_audio_frames_played=705, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:13.993 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:14.022 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.022 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.026 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.054 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.054 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.059 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.090 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.090 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.094 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.120 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.120 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.125 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.157 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.157 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.158 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.191 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.191 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.191 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.220 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.221 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\xa0\xb9\x9c\xa0\xbd@\x9c\xc5X\xa0\xbd@\xa0\xb9\x04\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdS\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x1f')
+2026-04-26 17:11:14.224 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.256 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.257 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1e\xa4\xb9\x98\xa0\xbd@\xa0\xc1\x94\x9c\xc5U\xa0\xc1\x94\xa0\xbd@\xa4\xb9\x05\xa8\xb1@\xa4\xb9@\xa0\xbdR\xa4\xb9@\xa8\xb1@\x1f')
+2026-04-26 17:11:14.257 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.287 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.287 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1e\xa8\xb5\x98\xa8\xb9\x94\xa4\xbd\x94\xa4\xc1\x90\xa0\xc5U\xa4\xc1\x90\xa4\xbd\x94\xa8\xb9\x94\xa8\xb5\x04\xac\xb1\x98\xa8\xb9A\xa4\xc1T\xa8\xb9A\xac\xb1\x1e')
+2026-04-26 17:11:14.290 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.320 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.321 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1f\xac\xb5\x94\xa8\xb9@\xa8\xbd\x90\xa4\xc1T\xa8\xbd\x90\xa8\xb9@\xac\xb5\x04\xac\xb5\x94\xa8\xb9@\xa8\xbd\x90\xa4\xc1T\xa8\xbd\x90\xa8\xb9@\xac\xb5\x1e')
+2026-04-26 17:11:14.323 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:14.323 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=668246588, num_anim_bytes_played=30883, num_audio_frames_played=715, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:14.324 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:14.353 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.354 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb0\xb1\x94\xac\xb9A\xa8\xc1T\xac\xb9A\xb0\xb1\x04\xac\xb5\x94\xac\xb9@\xa8\xc1W\xac\xb9@\xac\xb5\x1c')
+2026-04-26 17:11:14.356 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.388 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9\x8c\xac\xbd\x8c\xac\xc1\x88\xa8\xc5U\xac\xc1\x88\xac\xbd\x8c\xb0\xb9\x8c\xb0\xb5\x1b')
+2026-04-26 17:11:14.389 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:14.389 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:14.421 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.421 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9\x8c\xac\xbd\x8c\xac\xc1\x88\xa8\xc5U\xac\xc1\x88\xac\xbd\x8c\xb0\xb9\x8c\xb0\xb5\x1b')
+2026-04-26 17:11:14.422 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.456 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.457 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.459 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9\x8c\xac\xbd\x8c\xac\xc1\x88\xa8\xc5U\xac\xc1\x88\xac\xbd\x8c\xb0\xb9\x8c\xb0\xb5\x1b')
+2026-04-26 17:11:14.488 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.489 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.490 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x01\xbc\x9d\x9c\xbc\xa1^\xb8\xa5\x7f[')
+2026-04-26 17:11:14.520 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.521 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x01\xc4\x8d\x7f|')
+2026-04-26 17:11:14.522 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.555 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.557 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.560 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x01\xcc\x81\x7f|')
+2026-04-26 17:11:14.587 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.589 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.591 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'??')
+2026-04-26 17:11:14.620 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.623 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.626 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'??')
+2026-04-26 17:11:14.653 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:14.653 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=668577201, num_anim_bytes_played=31261, num_audio_frames_played=724, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:14.653 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:14.654 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.656 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x01\xcc\x81\x7f|')
+2026-04-26 17:11:14.686 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.688 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.689 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x01\xc4\x8d\x7f|')
+2026-04-26 17:11:14.719 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.722 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.724 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x01\xbc\x9d\x9c\xbc\xa1^\xb8\xa5\x7f[')
+2026-04-26 17:11:14.752 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.756 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.759 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9\x8c\xac\xbd\x8c\xac\xc1\x88\xa8\xc5U\xac\xc1\x88\xac\xbd\x8c\xb0\xb9\x8c\xb0\xb5\x1b')
+2026-04-26 17:11:14.785 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.791 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.793 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9\x8c\xac\xbd\x8c\xac\xc1\x88\xa8\xc5U\xac\xc1\x88\xac\xbd\x8c\xb0\xb9\x8c\xb0\xb5\x1b')
+2026-04-26 17:11:14.818 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.823 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.825 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb9@\xac\xc1X\xb0\xb9A\x1b')
+2026-04-26 17:11:14.851 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.856 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.858 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xb4\xb1@\xb0\xb9@\xac\xbdR\xb0\xb9@\xb4\xb1@\x04\xb0\xb9@\xac\xc1Z\xb0\xb9@\x1b')
+2026-04-26 17:11:14.884 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=668817388, num_anim_bytes_played=31618, num_audio_frames_played=732, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:14.884 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:14.884 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:14.891 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.892 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdR\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x05\xb0\xb9\x8c\xb0\xbd\x88\xac\xc1@\xac\xc5U\xac\xc1@\xb0\xbd\x88\xb0\xb9\x1c')
+2026-04-26 17:11:14.917 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.920 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.921 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdR\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:14.950 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.954 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.955 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:14.983 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:14.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:14.991 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.016 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:15.016 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=668937633, num_anim_bytes_played=31651, num_audio_frames_played=735, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:15.017 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:15.023 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.023 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.049 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.054 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.054 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.082 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.090 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.091 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.118 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.123 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.123 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.148 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.153 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.153 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.181 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.189 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.191 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdS\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd@\xac\xc5X\xb0\xbd@\xb0\xb9\x1c')
+2026-04-26 17:11:15.214 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.222 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.225 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb4\xb1@\xb4\xb5\x8c\xb0\xb9\x8c\xb0\xbdR\xb0\xb9\x8c\xb4\xb5\x8c\xb4\xb1@\x04\xb0\xb9\x8c\xb0\xbd\x88\xac\xc1@\xac\xc5V\xac\xc1@\xb0\xbd\x88\xb0\xb9\x1c')
+2026-04-26 17:11:15.247 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.254 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.256 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xb8\xad\x90\xb4\xb5@\xb0\xbdT\xb4\xb5@\xb8\xad\x04\xb0\xb9\x8c\xb0\xbd\x88\xac\xc1A\xac\xc5T\xac\xc1A\xb0\xbd\x88\xb0\xb9\x1b')
+2026-04-26 17:11:15.281 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.288 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.290 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdR\xb0\xb9@\xb4\xb1@\x05\xb0\xb9@\xac\xc1Y\xb0\xb9@\x1a')
+2026-04-26 17:11:15.313 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.322 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.324 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9\x8c\xac\xbd\x8c\xac\xc1\x88\xa8\xc5U\xac\xc1\x88\xac\xbd\x8c\xb0\xb9\x8c\xb0\xb5\x19')
+2026-04-26 17:11:15.346 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:15.347 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=669268136, num_anim_bytes_played=31902, num_audio_frames_played=745, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:15.347 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:15.353 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.355 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.379 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.387 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.413 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:15.413 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:15.420 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.420 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.445 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.453 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.453 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.478 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.487 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.487 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.511 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.522 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.523 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.544 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.557 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.557 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.579 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.588 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.588 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.610 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.620 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.620 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.643 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.657 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.657 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.677 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:15.677 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=669598401, num_anim_bytes_played=32328, num_audio_frames_played=755, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:15.677 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:15.691 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.691 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.709 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.720 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.721 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.743 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.755 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.756 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.775 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.789 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.789 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.808 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.824 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.824 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.841 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.857 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.875 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.889 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.889 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.908 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=669838846, num_anim_bytes_played=32592, num_audio_frames_played=762, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:15.908 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:15.908 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:15.920 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.921 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.940 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.954 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.954 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:15.973 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:15.987 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:15.987 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.006 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:16.006 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=669928937, num_anim_bytes_played=32700, num_audio_frames_played=765, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:16.007 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:16.020 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.020 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.039 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.056 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.057 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.073 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.087 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.087 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.106 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.120 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.121 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.139 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.157 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.157 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.172 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.191 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.191 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.205 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.223 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.223 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.238 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.257 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.258 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.271 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.287 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.287 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.303 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.321 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.321 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.336 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:16.336 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=670259206, num_anim_bytes_played=33024, num_audio_frames_played=774, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:16.336 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:16.354 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.354 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.369 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.391 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.391 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.404 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:16.404 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:16.419 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.419 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.435 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.454 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.454 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.468 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.488 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.488 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.501 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.523 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.523 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.535 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.557 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.557 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.568 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.589 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.589 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.603 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.620 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.620 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.634 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.657 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.657 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.667 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:16.667 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=670589423, num_anim_bytes_played=33384, num_audio_frames_played=784, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:16.667 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:16.686 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.687 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.700 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.719 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.719 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.733 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.757 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.758 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.766 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.789 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.790 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\xb4\xb1@\xb0\xb9@\xac\xbdS\xb0\xb9@\xb4\xb1@\x05\xb0\xb5\x90\xb0\xb9@\xac\xc1W\xb0\xb9@\xb0\xb5\x19')
+2026-04-26 17:11:16.799 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.824 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.825 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'$\xb4\xad\x94\xb0\xb5@\xac\xbdT\xb0\xb5@\xb4\xad\x05\xb0\xb5\x90\xac\xbd@\xa8\xc1\x8c\xa8\xc5U\xa8\xc1\x8c\xac\xbd@\xb0\xb5\x19')
+2026-04-26 17:11:16.831 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.854 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.855 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xb0\xb1@\xb0\xb5\x90\xac\xb9\x90\xac\xbdS\xac\xb9\x90\xb0\xb5\x90\xb0\xb1@\x04\xac\xb9\x90\xac\xbd@\xa8\xc5X\xac\xbd@\xac\xb9\x1a')
+2026-04-26 17:11:16.864 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.890 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.892 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xb1\x94\xac\xb5@\xac\xb9\x90\xa8\xbdS\xac\xb9\x90\xac\xb5@\xb0\xb1\x03\xac\xb9@\xa8\xc1@\xa4\xc9X\xa8\xc1A\xac\xb9\x1a')
+2026-04-26 17:11:16.898 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=670829676, num_anim_bytes_played=33636, num_audio_frames_played=791, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:16.898 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:16.898 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:16.924 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.925 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xb0\xb1@\xac\xb5\x94\xac\xb9T\xac\xb5\x94\xb0\xb1@\x03\xa8\xbd\x90\xa8\xc1\x8c\xa4\xc5@\xa4\xc9\x88\xa0\xcdV\xa4\xc9@\xa4\xc5\x8c\xa8\xc1\x8c\xa8\xbd\x1a')
+2026-04-26 17:11:16.931 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.955 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.956 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:16.964 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:16.989 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:16.989 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:16.997 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:16.997 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=670919720, num_anim_bytes_played=33744, num_audio_frames_played=794, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:16.997 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.020 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.020 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.030 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.057 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.057 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.063 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.086 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.086 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.096 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.120 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.120 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.129 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.152 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.153 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.162 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.187 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.187 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.195 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.223 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.223 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.228 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.256 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.256 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.261 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.289 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.289 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.294 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.324 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.324 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.356 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.356 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.365 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:17.365 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=671249930, num_anim_bytes_played=34115, num_audio_frames_played=804, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:17.365 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.366 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.390 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xb0\xad\x98\xac\xb1\x98\xac\xb5\x94\xa8\xbdR\xac\xb5@\xac\xb1\x98\xb0\xad\x04\xa8\xc1\x8c\xa4\xc5\x8c\xa4\xc9\x88\xa0\xcd\x88\xa0\xd1X\xa0\xcd\x88\xa4\xc9\x88\xa4\xc5\x8c\xa8\xc1@\x1a')
+2026-04-26 17:11:17.393 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.420 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.423 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xac\xad\x9c\xa8\xb1\x9c\xa8\xb5@\xa4\xbdR\xa8\xb5@\xa8\xb1\x9c\xac\xad\x03\xa4\xbd@\xa0\xc1\x94\xa0\xc5\x90\x9c\xc9\x90\x9c\xcdW\x9c\xc9\x90\xa0\xc5\x90\xa0\xc1@\xa4\xbd\x19')
+2026-04-26 17:11:17.426 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:17.426 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.456 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.458 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xa4\xb1@\xa4\xb5\x9c\xa0\xb9\x9c\xa0\xbdR\xa0\xb9\x9c\xa4\xb5\x9c\xa4\xb1@\x04\xa0\xbd\x98\x9c\xc1\x98\x9c\xc5\x94\x98\xc9\x94\x98\xcdW\x98\xc9\x94\x9c\xc5\x94\x9c\xc1\x98\xa0\xbd\x1a')
+2026-04-26 17:11:17.459 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.487 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.489 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\xa4\xb1\xa0\xa0\xb5@\xa0\xb9\x9c\x9c\xbdS\xa0\xb9\x9c\xa0\xb5@\xa4\xb1\x04\xa0\xb9\x9c\x9c\xbd@\x9c\xc1\x98\x98\xc5\x98\x98\xc9U\x98\xc5@\x9c\xc1\x98\x9c\xbd\x9c\xa0\xb9\x19')
+2026-04-26 17:11:17.496 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.522 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.525 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'$\x9c\xb1@\x9c\xb5\xa4\x98\xb9\xa4\x98\xbdR\x98\xb9\xa4\x9c\xb5\xa4\x9c\xb1@\x04\x98\xb9\xa4\x98\xbd\xa0\x94\xc1@\x94\xc5V\x94\xc1@\x98\xbd\xa0\x98\xb9\x19')
+2026-04-26 17:11:17.525 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.557 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.558 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.559 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\x9c\xad\xac\x98\xb5@\x94\xbdU\x98\xb5@\x9c\xad\x05\x98\xb5\xa8\x94\xb9\xa8\x94\xbd\xa4\x90\xc1\xa4\x90\xc5T\x90\xc1\xa4\x94\xbd\xa4\x94\xb9\xa8\x98\xb5@\x19')
+2026-04-26 17:11:17.588 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.591 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'#\x9c\xad\xac\x98\xb5@\x94\xbdU\x98\xb5@\x9c\xad\x05\x98\xb5\xa8\x94\xb9\xa8\x94\xbd\xa4\x90\xc1\xa4\x90\xc5T\x90\xc1\xa4\x94\xbd\xa4\x94\xb9\xa8\x98\xb5@\x19')
+2026-04-26 17:11:17.592 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.621 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.624 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'"\x94\xb5@\x94\xb9\xa8\x90\xbd\xa8\x90\xc1S\x90\xbd\xa8\x94\xb9\xa8\x94\xb5@\x05\x94\xb5\xac\x94\xb9@\x90\xc1W\x94\xb9@\x94\xb5\x1a')
+2026-04-26 17:11:17.626 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.654 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.655 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1f\x94\xb5\xac\x90\xbd@\x8c\xc1\xa8\x8c\xc5U\x8c\xc1\xa8\x90\xbd@\x94\xb5\x04\x94\xb5@\x90\xb9\xac\x90\xbdV\x90\xb9\xac\x94\xb5@\x1d')
+2026-04-26 17:11:17.657 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:17.657 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=671580261, num_anim_bytes_played=34636, num_audio_frames_played=814, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:17.657 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.687 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.690 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1d\x90\xb9\xac\x8c\xbd@\x8c\xc1\xa8\x88\xc5\xa8\x88\xc9U\x88\xc5@\x8c\xc1\xa8\x8c\xbd\xac\x90\xb9\x04\x94\xb1\xb0\x90\xb5\xb0\x90\xb9\xac\x8c\xbdU\x90\xb9\xac\x90\xb5\xb0\x94\xb1\x1e')
+2026-04-26 17:11:17.690 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.720 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.723 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\x8c\xbd@\x88\xc5@\x84\xcdW\x88\xc5@\x8c\xbdA\x03\x90\xb1@\x90\xb5\xb0\x8c\xb9\xb0\x8c\xbdR\x8c\xb9\xb0\x90\xb5\xb0\x90\xb1@ ')
+2026-04-26 17:11:17.723 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.756 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.756 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.759 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.787 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.787 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.789 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.822 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.824 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.824 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.855 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.857 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.888 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.891 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.891 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.921 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.921 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.921 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=671850537, num_anim_bytes_played=35067, num_audio_frames_played=822, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:17.921 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.921 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.954 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:17.957 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.957 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:17.987 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:17.987 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=671910551, num_anim_bytes_played=35168, num_audio_frames_played=824, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:17.987 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:17.987 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:17.988 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.020 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.020 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.021 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.053 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.056 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.056 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.087 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.089 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.089 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.119 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.121 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.121 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.152 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.154 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.154 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.185 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.189 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.189 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.218 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.223 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.223 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.251 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.253 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.253 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.284 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.289 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.289 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.317 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:18.317 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=672240770, num_anim_bytes_played=35588, num_audio_frames_played=833, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:18.317 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:18.323 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.324 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.350 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.357 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.358 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.383 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.389 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.390 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.416 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:18.416 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:18.422 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.423 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.449 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.457 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.460 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1a\x88\xc1\xac\x88\xc5\xa8\x84\xc9@\x84\xcd\xa4\x80\xd1W\x84\xcd@\x84\xc9\xa8\x88\xc5\xa8\x88\xc1\x04\x90\xb1@\x8c\xb5\xb4\x8c\xb9S\x8c\xb5\xb4\x90\xb1@!')
+2026-04-26 17:11:18.482 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.487 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.490 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1c\x90\xbd@\x8c\xc5@\x88\xcdW\x8c\xc5@\x90\xbdA\x03\x98\xad\xb0\x94\xb5@\x90\xbdU\x94\xb5@\x98\xad\x1f')
+2026-04-26 17:11:18.515 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.523 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.524 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1e\x98\xb9\xa4\x94\xbd\xa4\x94\xc1\xa0\x90\xc5\xa0\x90\xc9V\x90\xc5\xa0\x94\xc1\xa0\x94\xbd\xa4\x98\xb9\x04\x9c\xb1\xa8\x98\xb9A\x94\xc1S\x98\xb9A\x9c\xb1\x1e')
+2026-04-26 17:11:18.548 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.556 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.558 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'\x1f\xa0\xb9@\x9c\xc1X\xa0\xb9A\x03\xa0\xb5\xa0\xa0\xb9@\x9c\xc1V\xa0\xb9@\xa0\xb5\x1e')
+2026-04-26 17:11:18.581 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.588 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.590 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b' \xa8\xb1\x9c\xa4\xb9A\xa0\xc1T\xa4\xb9A\xa8\xb1\x03\xa4\xb9@\xa0\xc1Z\xa4\xb9@\x1c')
+2026-04-26 17:11:18.614 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.621 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.623 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.647 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.653 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.653 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.680 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:18.680 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=672601202, num_anim_bytes_played=36116, num_audio_frames_played=844, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:18.681 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:18.687 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.688 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.713 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.723 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.723 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.746 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.756 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.756 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.779 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.790 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.791 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.813 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.820 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.820 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.845 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.854 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.854 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.878 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.887 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.888 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.911 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=672841369, num_anim_bytes_played=36452, num_audio_frames_played=851, enabled_anim_tracks=255, tag=0, client_drop_count=11)
+2026-04-26 17:11:18.912 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:18.912 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:18.924 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.924 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.944 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.954 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.954 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:18.977 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:18.989 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:18.989 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.010 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:19.010 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=672931401, num_anim_bytes_played=36583, num_audio_frames_played=854, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:19.010 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:19.021 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.021 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.043 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.053 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.053 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.076 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.089 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.089 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.111 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.121 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.121 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.142 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.154 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.154 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.175 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.187 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.187 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.208 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.220 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.220 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.241 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.256 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.256 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.274 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.287 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.287 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.307 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.320 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.320 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.340 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 50 bytes.
+2026-04-26 17:11:19.340 pycozmo.protocol     DEBUG    Got  AnimationState(timestamp=673261874, num_anim_bytes_played=37075, num_audio_frames_played=864, enabled_anim_tracks=255, tag=0, client_drop_count=5)
+2026-04-26 17:11:19.340 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:19.357 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.357 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.373 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.387 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.387 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.406 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.423 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.423 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.439 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 52 bytes.
+2026-04-26 17:11:19.439 pycozmo.general      ERROR    Failed to process event <class 'pycozmo.event.EvtPacketReceived'>. main.<locals>.on_packet() missing 1 required positional argument: 'pkt'
+2026-04-26 17:11:19.454 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.454 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.472 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.487 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.487 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.505 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+2026-04-26 17:11:19.524 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.524 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.538 pycozmo.protocol     DEBUG    Failed to decode packet. Ignoring. Buffer not large enough to read serialized message. Received 32 bytes.
+
+Summary
+Robot discovery: EvtRobotFound observed
+Robot ready: EvtRobotReady observed
+Decode failures: 867
+2026-04-26 17:11:19.555 pycozmo.general      DEBUG    Disconnecting...
+2026-04-26 17:11:19.555 pycozmo.protocol     DEBUG    Disconnecting...
+2026-04-26 17:11:19.556 pycozmo.protocol     DEBUG    Sent Disconnect()
+2026-04-26 17:11:19.556 pycozmo.general      DEBUG    Stopping client...
+2026-04-26 17:11:19.556 pycozmo.general      DEBUG    Stopping...
+2026-04-26 17:11:19.563 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.569 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.587 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.588 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.623 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.623 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.657 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.657 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.688 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.689 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.721 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.721 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.756 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.756 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.791 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.791 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.824 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.824 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.857 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.858 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.891 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.891 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.924 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.924 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.956 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.957 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:19.991 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:19.993 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xac\xb1@\xac\xb5\x94\xa8\xb9\x94\xa8\xbdS\xa8\xb9\x94\xac\xb5\x94\xac\xb1@\x04\xa8\xb9\x94\xa8\xbd\x90\xa4\xc1\x90\xa4\xc5\x8c\xa0\xc9V\xa4\xc5\x8c\xa4\xc1\x90\xa8\xbd\x90\xa8\xb9\x1b')
+2026-04-26 17:11:20.024 pycozmo.protocol     DEBUG    Sent OutputSilence()
+2026-04-26 17:11:20.026 pycozmo.protocol     DEBUG    Sent DisplayImage(image=b'!\xa8\xb1\x9c\xa4\xb5@\xa4\xb9\x98\xa0\xbdS\xa4\xb9\x98\xa4\xb5@\xa8\xb1\x04\xa4\xb9@\xa0\xc1@\x9c\xc9V\xa0\xc1@\xa4\xb9@\x1b')
+2026-04-26 17:11:20.054 pycozmo.general      DEBUG    Animation controller stopped...

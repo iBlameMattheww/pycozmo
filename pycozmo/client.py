@@ -9,6 +9,7 @@ from typing import Optional, Tuple
 import json
 import time
 import io
+import os
 
 import numpy as np
 from PIL import Image
@@ -46,7 +47,9 @@ class Client(event.Dispatcher):
                  protocol_log_messages: Optional[list] = None,
                  auto_initialize: bool = True,
                  enable_animations: bool = True,
-                 enable_procedural_face: bool = True) -> None:
+                 enable_procedural_face: bool = True,
+                 debug_2313: bool = False,
+                 compatibility_2313_ignore_wifi_update_mismatch: bool = False) -> None:
         super().__init__()
         # Whether to automatically initialize the robot when connection is established.
         self.auto_initialize = bool(auto_initialize)
@@ -62,6 +65,11 @@ class Client(event.Dispatcher):
         self.serial_number = None
         self.body_hw_version = None
         self.body_color = None
+        self.robot = None
+        self._robot_found = False
+        self._robot_ready = False
+        self.debug_2313 = bool(debug_2313 or os.environ.get("PYCOZMO_2313_DEBUG"))
+        self.compatibility_2313_ignore_wifi_update_mismatch = bool(compatibility_2313_ignore_wifi_update_mismatch or os.environ.get("PYCOZMO_2313_IGNORE_WIFI_UPDATE_MISMATCH"))
         # Robot state
         # Heading in X-Y plane.
         self.pose_frame_id = 0
@@ -100,6 +108,10 @@ class Client(event.Dispatcher):
         self._ppclips = {}
         self._next_anim_id = 1
         self.animation_groups = {}
+
+    def _debug_2313(self, msg, *args):
+        if self.debug_2313:
+            logger.debug("[2313 DEBUG] " + msg, *args)
 
     def start(self) -> None:
         logger.debug("Starting client...")
@@ -148,8 +160,12 @@ class Client(event.Dispatcher):
         time.sleep(0.5)
 
         self.anim_controller.start()
+        self.robot = self
+        self._robot_ready = True
+        self._debug_2313("Robot initialized. self.robot assigned=%s", self.robot is not None)
 
         self.dispatch(event.EvtRobotReady, self)
+        self._debug_2313("EvtRobotReady dispatched.")
 
     def _on_hardware_info(self, cli, pkt: protocol_encoder.HardwareInfo):
         del cli
@@ -159,6 +175,7 @@ class Client(event.Dispatcher):
         del cli
         self.robot_fw_sig = json.loads(pkt.signature)
         logger.info("Firmware version %s.", self.robot_fw_sig["version"])
+        self._debug_2313("Firmware signature payload: %s", pkt.signature)
         if self.robot_fw_sig.get("build") == "FACTORY":
             logger.warning("Factory/recovery firmware detected. Functionality is degraded.")
         elif self.robot_fw_sig["version"] < protocol_declaration.FIRMWARE_VERSION:
@@ -169,33 +186,44 @@ class Client(event.Dispatcher):
 
     def _on_body_info(self, cli, pkt: protocol_encoder.BodyInfo):
         del cli
+        self._robot_found = True
         self.serial_number = pkt.serial_number
         self.body_hw_version = pkt.body_hw_version
         self.body_color = pkt.body_color
         logger.info("Body S/N 0x%08x, HW version %i, color %i.",
                     self.serial_number, self.body_hw_version, self.body_color.value)
+        self._debug_2313("Body info recieved. serial=0x%08x hw=%i color=%s", self.serial_number, self.body_hw_version, self.body_color)
         if self.auto_initialize:
             self._initialize_robot()
         self.dispatch(event.EvtRobotFound, self)
+        self._debug_2313("EvtRobotFound dispatched.")
 
     def wait_for(self, evt, timeout: Optional[float] = None):
         e = Event()
         self.add_handler(evt, lambda cli: e.set(), one_shot=True)
+        self._debug_2313("wait_for() waiting for %s timeout=%s", evt.__name__, timeout)
         if not e.wait(timeout):
+            self._debug_2313("wait_for() timed out waiting for %s", evt.__name__)
             raise exception.Timeout("Timeout waiting for event {}".format(evt))
+        self._debug_2313("wait_for() got %s", evt.__name__)
 
-    def wait_for_robot(self, timeout: float = 5.0) -> None:
-        if not self.robot_fw_sig:
+    def wait_for_robot(self, timeout: float = 5.0):
+        self._debug_2313("wait_for_robot() start timeout=%s fw_known=%s, robot_found=%s, robot_ready=%s, auto_intialize=%s", timeout, bool(self.robot_fw_sig), self._robot_found, self._robot_ready, self.auto_initialize)
+        if not self._robot_found:
             try:
                 self.wait_for(event.EvtRobotFound, timeout=timeout)
             except exception.Timeout as e:
+                self._debug_2313("wait_for_robot() returning None: robot not found")
                 raise exception.ConnectionTimeout("Failed to connect to Cozmo.") from e
 
-        if not self.serial_number:
+        if self.auto_initialize and not self._robot_ready:
             try:
                 self.wait_for(event.EvtRobotReady, timeout=timeout)
             except exception.Timeout as e:
+                self._debug_2313("wait_for_robot() returning None: robot not ready")
                 raise exception.ConnectionTimeout("Failed to initialize Cozmo.") from e
+        self._debug_2313("wait_for_robot() success robot=%s", self.robot)
+        return self.robot
 
     def _reset_partial_state(self):
         self._partial_image_timestamp = None
@@ -359,6 +387,12 @@ class Client(event.Dispatcher):
     def _on_debug_data(self, cli, pkt: protocol_encoder.DebugData):
         del cli
         msg = robot_debug.get_debug_message(pkt.name_id, pkt.format_id, pkt.args)
+        debug_name = robot_debug.ROBOT_NAME_IDS.get(pkt.name_id, "<unknown>")
+        if self.debug_2313:
+            self._debug_2313("DebugData level=%s name=%s(%s) format_id=%s args=%s msg=%s", pkt.level, debug_name, pkt.name_id, pkt.format_id, pkt.args, msg)
+        if (self.compatibility_2313_ignore_wifi_update_mismatch and self.robot_fw_sig and self.robot_fw_sig.get("version") == 2313 and debug_name == "WiFi.Update" and pkt.format_id == 381):
+            logger.debug("[2313-compat] Ignoring WiFi.Update size mismatch debug record: %s", msg)
+            return
         logger_robot.log(robot_debug.get_log_level(pkt.level), msg)
 
     def set_head_angle(self, angle: float, accel: float = 10.0, max_speed: float = 10.0,

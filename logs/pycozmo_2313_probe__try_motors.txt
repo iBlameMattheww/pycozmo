@@ -1,0 +1,25 @@
+(.venv_dev) (base) matthewobrien@Matthews-MacBook-Pro-3 pycozmo % python tools/pycozmo_2313_probe.py --try-motors 
+Starting client
+2026-04-26 17:08:23.254 pycozmo.protocol     INFO     Recv: 17B, 0F (disc.), 1F, 1P, 1P (100.00%); Sent: 0P, 0P (0.00%), 0F, 0F (disc.), 0B;
+2026-04-26 17:08:23.274 pycozmo.general      INFO     Firmware version 2313.
+2026-04-26 17:08:23.275 pycozmo.general      WARNING  Old firmware detected. PyCozmo works best with v2381. Functionality may be degraded.
+2026-04-26 17:08:23.275 pycozmo.robot        INFO     hardware.revision: Hardware 1.0
+2026-04-26 17:08:23.307 pycozmo.general      INFO     Body S/N 0x06700e1a, HW version 4, color 0.
+[event] EvtRobotReady
+[event] EvtRobotFound
+wait_for_robot(timeout=10.0) -> <pycozmo.client.Client object at 0x10b2b4590>
+cli.robot -> <pycozmo.client.Client object at 0x10b2b4590>
+firmware -> 2313
+body serial -> 0x6700e1a
+body hw version -> 4
+Sending minimal motor commands
+Listening for 30 seconds...
+Probe failed: 'DecodeFailureLogHandler' object has no attribute 'failures'
+Traceback (most recent call last):
+  File "/Users/matthewobrien/git/pycozmo/tools/pycozmo_2313_probe.py", line 111, in <module>
+    main()
+    ~~~~^^
+  File "/Users/matthewobrien/git/pycozmo/tools/pycozmo_2313_probe.py", line 99, in main
+    print("Decode failures observed: {}".format(len(decode_handler.failures)))
+                                                    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DecodeFailureLogHandler' object has no attribute 'failures'

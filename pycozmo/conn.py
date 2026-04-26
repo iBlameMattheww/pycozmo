@@ -7,6 +7,7 @@ Cozmo protocol low-level client and server connection.
 import select
 import socket
 import time
+import os
 from queue import Queue, Empty
 from threading import Thread, Lock
 from typing import Optional, Tuple, Any
@@ -380,6 +381,7 @@ class Connection(Thread, event.Dispatcher):
         self.ping_last = 0
         self.stats_last = 0
         self.ping_counter = 0
+        self.debug_2313 = bool(os.getenv("PYCOZMO_DEBUG_2313"))
 
     def start(self) -> None:
         logger.debug("Starting...")
@@ -469,8 +471,13 @@ class Connection(Thread, event.Dispatcher):
         self.ping_counter += 1
 
     def _on_packet_received(self, pkt):
+        if self.debug_2313:
+            logger_protocol.debug("[2313-debug] Incoming packet class=%s id=0x%02x type=%s payload_len=%d seq=%s ack=%s",
+                pkt.__class__.__name__, pkt.id, pkt.type, len(pkt), pkt.seq, pkt.ack)
         if not self.packet_type_filter.filter(pkt.type.value) and not self.packet_id_filter.filter(pkt.id):
             logger_protocol.debug("Got  %s", pkt)
+        if self.debug_2313:
+            logger_protocol.debug("[2313-debug] Dispatching packet as event=%s", pkt.__class__.__name__)
         self.dispatch(pkt.__class__, self, pkt)
 
     def _on_connect(self, cli, pkt: protocol_encoder.Connect):

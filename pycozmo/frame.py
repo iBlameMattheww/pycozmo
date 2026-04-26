@@ -5,6 +5,7 @@ Cozmo protocol frame representation and encoding and decoding.
 """
 
 from typing import List
+import os
 
 from .logger import logger_protocol
 from .protocol_ast import FrameType, PacketType
@@ -130,6 +131,7 @@ class Frame(object):
             while reader.tell() < len(reader):
                 pkt_type = PacketType(reader.read("B"))
                 pkt_len = reader.read("H")
+                pkt_data_start = reader.tell()
                 expected_offset = reader.tell() + pkt_len
                 try:
                     pkt = cls._decode_packet(pkt_type, pkt_len, reader)
@@ -142,6 +144,11 @@ class Frame(object):
                         pkt_seq = (pkt_seq + 1) % MAX_SEQ
                     pkts.append(pkt)
                 except (ValueError, IndexError) as e:
+                    raw_payload = reader.buffer[pkt_data_start:expected_offset]
+                    if cls.DEBUG_2313:
+                        logger_protocol.debug(
+                            "[2313-debug] Failed to decode packet type=%s expected_len=%d remaining_len=%d raw=%s error=%s",
+                            pkt_type, pkt_len, len(raw_payload), raw_payload.hex(), e)
                     logger_protocol.debug("Failed to decode packet. Ignoring. {}".format(e))
                     reader.seek_set(expected_offset)
             assert seq == OOB_SEQ or seq + 1 == pkt_seq or pkt.type == PacketType.PING
@@ -174,3 +181,4 @@ class Frame(object):
         res = cls(frame_type, first_seq, seq, ack, pkts)
 
         return res
+    DEBUG_2313 = bool(os.getenv("PYCOZMO_DEBUG_2313"))
