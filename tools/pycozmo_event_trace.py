@@ -38,7 +38,7 @@ def main():
 
     cli = pycozmo.Client(debug_2313=True)
 
-    def on_packet(_cli, pkt):
+    def on_packet(pkt):
         name = pkt.__class__.__name__
         counts[name] += 1
         ordered.append(name)

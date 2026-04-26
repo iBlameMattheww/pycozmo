@@ -25,7 +25,7 @@ ROBOT_EVENTS = [
 
 class DecodeFailureLogHandler(logging.Handler):
 
-    def __inti__(self):
+    def __init__(self):
         super().__init__(level=logging.DEBUG)
         self.failures = []
 
